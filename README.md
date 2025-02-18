@@ -14,7 +14,8 @@ Crafting efficient software solutions while bringing a unique perspective from t
 ```javascript
 const skills = {
     languages: ['Java', 'C#', 'JavaScript/Typescript'],
-    backend: ['Spring Boot', '.NET Core', 'Kafka'],
+    backend: ['Spring Boot', '.NET Core'],
+    messaging:['Kafka'],
     frontend: ['Vue.js', 'React','NextJs'],
     cloud: ['Azure', 'Google Cloud Platform'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],

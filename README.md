@@ -13,7 +13,7 @@ Crafting efficient software solutions while bringing a unique perspective from t
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['Java', 'C#', 'JavaScript/Typescript'],
+    languages: ['Java', 'C#', 'JavaScript/TypeScript'],
     backend: ['Spring Boot', '.NET Core'],
     messaging:['Kafka'],
     frontend: ['Vue.js', 'React','NextJs'],

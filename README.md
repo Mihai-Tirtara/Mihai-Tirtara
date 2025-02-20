@@ -16,7 +16,7 @@ const skills = {
     languages: ['Java', 'C#', 'JavaScript/TypeScript'],
     backend: ['Spring Boot', '.NET Core'],
     messaging:['Kafka'],
-    frontend: ['Vue.js', 'React','NextJs'],
+    frontend: ['Vue.js', 'React','Next.js'],
     cloud: ['Azure', 'Google Cloud Platform'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
     devOps: ['Docker', 'Kubernetes', 'Azure DevOps'],

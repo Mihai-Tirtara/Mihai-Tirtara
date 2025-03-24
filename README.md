@@ -13,14 +13,13 @@ Crafting efficient software solutions while bringing a unique perspective from t
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['Java', 'C#', 'JavaScript/TypeScript'],
-    backend: ['Spring Boot', '.NET Core'],
+    languages: ['Java/Kotlin', 'C#', 'JavaScript/TypeScript', Python],
+    backend: ['Spring Boot', '.NET Core', 'FastAPI'],
     messaging:['Kafka'],
     frontend: ['Vue.js', 'React','Next.js'],
     cloud: ['Azure', 'Google Cloud Platform'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
-    devOps: ['Docker', 'Kubernetes', 'Azure DevOps'],
-    currentlyLearning: ['Kotlin']
+    devOps: ['Docker', 'Kubernetes', 'Azure DevOps']
 };
 ```
 ## 🚀 Key Projects

@@ -8,7 +8,7 @@
 [![Substack](https://img.shields.io/badge/Substack-Read-orange)](https://substack.com/@mihai98)
 
 ## 🎯 Mission
-Crafting efficient software solutions while bringing a unique perspective from the intersection of technology and comedy. Passionate about building scalable applications and creating engaging user experiences.
+Crafting efficient software solutions while bringing a unique perspective from the intersection of technology and comedy. Passionate about full-stack development and GenAI
 
 ## 🛠️ Technical Stack
 ```javascript
@@ -16,13 +16,19 @@ const skills = {
     languages: ['Java/Kotlin', 'C#', 'TypeScript', 'Python'],
     backend: ['Spring Boot', '.NET Core', 'FastAPI'],
     messaging:['Kafka'],
+    AI: [LangChain, AWS Bedrock]
     frontend: ['Vue.js', 'React','Next.js'],
-    cloud: ['Azure', 'Google Cloud Platform'],
+    cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
     devOps: ['Docker', 'Kubernetes', 'Azure DevOps']
 };
 ```
 ## 🚀 Key Projects
+
+### HypochondriAI
+AI-powered health anxiety management app that provides evidence-based information and personalized support
+* **GitHub:** [View Project](https://github.com/Mihai-Tirtara/HypochondriAI)
+
 
 ### Library-system 
 A modern, full-stack library management system that combines traditional CRUD operations with AI-powered insights. 
@@ -30,13 +36,9 @@ A modern, full-stack library management system that combines traditional CRUD op
 * **GitHub(Frontend):** [View Project](https://github.com/Mihai-Tirtara/Library-system-frontend)
 
 
-### Kotlin certificate 
-Leveraging my Java background to master Kotlin, aiming for professional certification to broaden my technological versatility.
-* **GitHub:** [View Project](https://github.com/Mihai-Tirtara/Kotlin-for-java-developers)
-* **Website:** [View website](https://www.coursera.org/learn/kotlin-for-java-developers)
 
 ## 🎯 Professional Goals
-- Mastering Java/Kotlin ecosystem to architect robust enterprise solutions while pursuing advanced certifications
+- Becoming proficient in full-stack development with an expertise in GenAI
 - Creating engaging technical content that bridges complex concepts with entertaining storytelling, leveraging my unique background in comedy
 - Advancing into technical leadership roles where I can combine software expertise with creative problem-solving and team management experience
 

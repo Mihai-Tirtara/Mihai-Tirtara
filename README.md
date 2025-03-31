@@ -16,7 +16,7 @@ const skills = {
     languages: ['Java/Kotlin', 'C#', 'TypeScript', 'Python'],
     backend: ['Spring Boot', '.NET Core', 'FastAPI'],
     messaging:['Kafka'],
-    AI: [LangChain, AWS Bedrock]
+    AI: ['LangChain', 'AWS Bedrock'],
     frontend: ['Vue.js', 'React','Next.js'],
     cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],

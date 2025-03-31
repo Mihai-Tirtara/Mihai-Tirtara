@@ -15,7 +15,7 @@ Crafting efficient software solutions while bringing a unique perspective from t
 const skills = {
     languages: ['Java/Kotlin', 'C#', 'TypeScript', 'Python'],
     backend: ['Spring Boot', '.NET Core', 'FastAPI'],
-    messaging:['Kafka'],
+    messaging: ['Kafka'],
     AI: ['LangChain', 'AWS Bedrock'],
     frontend: ['Vue.js', 'React','Next.js'],
     cloud: ['Azure', 'AWS'],

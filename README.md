@@ -1,6 +1,6 @@
 # Mihai Tirtara
 
-> Software Engineer | Tech Blogger
+> Software Engineer 
 >
 > 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mihai-tirtara-48b73a15a/)
@@ -13,14 +13,14 @@ Crafting efficient software solutions while bringing a unique perspective from t
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['Java/Kotlin', 'C#', 'TypeScript', 'Python'],
-    backend: ['Spring Boot', '.NET Core', 'FastAPI'],
+    languages: ['Java/Kotlin', 'TypeScript', 'Python'],
+    backend: ['Spring Boot','FastAPI'],
     messaging: ['Kafka'],
     AI: ['LangChain', 'AWS Bedrock'],
     frontend: ['Vue.js', 'React','Next.js'],
     cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
-    devOps: ['Docker', 'Kubernetes', 'Azure DevOps']
+    devOps: ['Docker', 'Azure DevOps']
 };
 ```
 ## 🚀 Key Projects

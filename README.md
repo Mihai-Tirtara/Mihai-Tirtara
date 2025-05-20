@@ -8,7 +8,7 @@
 [![Substack](https://img.shields.io/badge/Substack-Read-orange)](https://substack.com/@mihai98)
 
 ## 🎯 Mission
-Crafting efficient software solutions while bringing a unique perspective from the intersection of technology and comedy. Passionate about full-stack development and GenAI
+Crafting efficient software solutions while bringing a unique perspective from the intersection of technology and comedy. Passionate about full-stack development and security engineering 
 
 ## 🛠️ Technical Stack
 ```javascript

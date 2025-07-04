@@ -30,12 +30,6 @@ AI-powered health anxiety management app that provides evidence-based informatio
 * **GitHub:** [View Project](https://github.com/Mihai-Tirtara/HypochondriAI)
 
 
-### Library-system 
-A modern, full-stack library management system that combines traditional CRUD operations with AI-powered insights. 
-* **GitHub(Backend):** [View Project](https://github.com/Mihai-Tirtara/library-system-backend)
-* **GitHub(Frontend):** [View Project](https://github.com/Mihai-Tirtara/Library-system-frontend)
-
-
 
 ## 🎯 Professional Goals
 - Becoming proficient in full-stack development with an expertise in GenAI

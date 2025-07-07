@@ -7,8 +7,18 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mihai.tirtara@gmail.com)
 [![Substack](https://img.shields.io/badge/Substack-Read-orange)](https://substack.com/@mihai98)
 
-## 🎯 Mission
-Crafting efficient software solutions while bringing a unique perspective from the intersection of technology and comedy. Passionate about full-stack development and security engineering 
+## 👋 About me 
+Hello,
+
+I'm Mihai, a Software Engineer with 3+ years experience in building full-stack application.
+
+I used to be a stand-up comedian. 
+
+**Currently building:** A health anxiety chatbot using LLMs to provide personalized mental health support.
+
+**Interested in:** AI engineering, full-stack development, cybersecurity, and low-level programming.
+
+**Writing:** Technical blog about my journey back into tech and the projects I'm building.
 
 ## 🛠️ Technical Stack
 ```javascript

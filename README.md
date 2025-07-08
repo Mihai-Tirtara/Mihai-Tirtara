@@ -10,7 +10,7 @@
 ## 👋 About me 
 Hello,
 
-I'm Mihai, a Software Engineer with 3+ years experience in building full-stack application.
+I'm Mihai, a Software Engineer with 3+ years experience in building full-stack web applications.
 
 I used to be a stand-up comedian. 
 

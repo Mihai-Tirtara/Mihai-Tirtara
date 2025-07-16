@@ -24,7 +24,7 @@ I used to be a stand-up comedian.
 ```javascript
 const skills = {
     languages: ['Python', 'TypeScript', 'Java/Kotlin' ],
-    backend: ['Spring Boot','FastAPI'],
+    backend: ['FastAPI','Spring Boot'],
     messaging: ['Kafka'],
     AI: ['LangChain', 'AWS Bedrock', 'Prompt Engineering'],
     frontend: ['Vue.js', 'React','Next.js', 'Tailwind'],

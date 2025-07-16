@@ -23,14 +23,14 @@ I used to be a stand-up comedian.
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['Java/Kotlin', 'TypeScript', 'Python'],
+    languages: ['Python', 'TypeScript', 'Java/Kotlin' ],
     backend: ['Spring Boot','FastAPI'],
     messaging: ['Kafka'],
-    AI: ['LangChain', 'AWS Bedrock'],
-    frontend: ['Vue.js', 'React','Next.js'],
+    AI: ['LangChain', 'AWS Bedrock', 'Prompt Engineering'],
+    frontend: ['Vue.js', 'React','Next.js', 'Tailwind'],
     cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
-    devOps: ['Docker', 'Azure DevOps']
+    devOps: ['Docker', 'Github Actions']
 };
 ```
 ## 🚀 Key Projects

@@ -30,7 +30,7 @@ const skills = {
     frontend: ['Vue.js', 'React','Next.js', 'Tailwind'],
     cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
-    devOps: ['Docker', 'Github Actions']
+    devOps: ['Docker', 'Github Actions', 'Terraform', 'Kubernetes']
 };
 ```
 ## 🚀 Key Projects

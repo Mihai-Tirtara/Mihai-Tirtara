@@ -14,11 +14,9 @@ I'm Mihai, a Software Engineer with 3+ years experience in building full-stack w
 
 I used to be a stand-up comedian. 
 
-**Currently building:** A health anxiety chatbot using LLMs to provide personalized mental health support.
+**Currently working:** As a software Engineer at DKFZ (German Cancer Research Center)
 
 **Interested in:** Low-level programming, DevOps and Cybersecurity 
-
-**Writing:** Technical blog about my journey back into tech and the projects I'm building.
 
 ## 🛠️ Technical Stack
 ```javascript
@@ -44,11 +42,7 @@ Browser extension that breaks autopilot browsing
 * **GitHub:** [View Project](https://github.com/Mihai-Tirtara/is_this_relevant)
 
 ## 🎯 Professional Goals
-- Becoming a proficient full-stack developer
-- Creating engaging technical content that bridges complex concepts with entertaining storytelling, leveraging my unique background in comedy
+- Becoming a proficient software engineer.
+- Creating engaging technical content that bridges complex concepts with entertaining storytelling, leveraging my unique background in comedy.
 - Increase my TC 😂
 
-## 🎖️ Leadership & Community Impact
-
-- Built and scaled an international comedy enterprise from ground up, producing 500+ shows including successful runs at the largest art festival in the world (Edinburgh Fringe Festival) 
-- Demonstrated creative innovation by developing and executing a children's comedy show from concept to performance, adapting content for young audiences and creating engaging family entertainment

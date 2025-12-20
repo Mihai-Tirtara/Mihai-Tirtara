@@ -21,7 +21,7 @@ I used to be a stand-up comedian.
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['Python', 'TypeScript', 'Java/Kotlin' ],
+    languages: ['Java/Kotlin', 'Python', 'C', 'Javascript/Typesecript'],
     backend: ['FastAPI','Spring Boot'],
     messaging: ['Kafka'],
     AI: ['LangChain', 'AWS Bedrock', 'Prompt Engineering'],

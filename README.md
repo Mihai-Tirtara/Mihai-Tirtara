@@ -10,22 +10,20 @@
 ## 👋 About me 
 Hello,
 
-I'm Mihai, a Software Engineer with 3+ years experience in building full-stack web applications.
+I'm Mihai, a Full-Stack Engineer with 4+ years experience in Java/Kotlin and React.js, building both event-driven systems and legacy enterprise applications across AWS and Azure. I am passionate about understanding distributed systems from the ground up and sharing that knowledge with other engineers.
 
-I used to be a stand-up comedian. 
+Currently working on a large scale automation and data management platform for bioinformatics pipelines at DKFZ (German Cancer Research Center)
 
-**Currently working:** As a software Engineer at DKFZ (German Cancer Research Center)
-
-**Interested in:** Low-level programming, DevOps and Cybersecurity 
+**Interested in:** DevOps and Cybersecurity 
 
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['Java/Kotlin', 'Python', 'C', 'Javascript/Typesecript'],
-    backend: ['FastAPI','Spring Boot'],
+    languages: ['Java/Kotlin', 'Python', 'Go', 'Javascript/Typesecript'],
+    backend: ['Spring Boot','FastAPI',],
     messaging: ['Kafka'],
     AI: ['LangChain', 'AWS Bedrock', 'Prompt Engineering'],
-    frontend: ['Vue.js', 'React','Next.js', 'Tailwind'],
+    frontend: ['React','Next.js', 'Tailwind'],
     cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],
     devOps: ['Docker', 'Github Actions', 'Terraform', 'Kubernetes']
@@ -43,6 +41,6 @@ Browser extension that breaks autopilot browsing
 
 ## 🎯 Professional Goals
 - Becoming a proficient software engineer.
-- Creating engaging technical content that bridges complex concepts with entertaining storytelling, leveraging my unique background in comedy.
+- Creating engaging technical content that bridges complex concepts with entertaining storytelling. 
 - Increase my TC 😂
 

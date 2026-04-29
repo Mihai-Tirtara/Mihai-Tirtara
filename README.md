@@ -22,7 +22,7 @@ const skills = {
     languages: ['Java/Kotlin', 'Python', 'Go', 'Javascript/Typesecript'],
     backend: ['Spring Boot','FastAPI',],
     messaging: ['Kafka'],
-    AI: ['LangChain', 'AWS Bedrock', 'Prompt Engineering'],
+    AI: ['Claude Code', 'Codex'],
     frontend: ['React','Next.js', 'Tailwind'],
     cloud: ['Azure', 'AWS'],
     databases: ['PostgreSQL', 'MongoDB', 'MSSQL'],

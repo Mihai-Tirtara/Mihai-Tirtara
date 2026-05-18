@@ -10,7 +10,7 @@
 ## 👋 About me 
 Hello,
 
-I'm Mihai, a Full-Stack Engineer with 4+ years experience in Java/Kotlin and React.js, building both event-driven systems and legacy enterprise applications across AWS and Azure. I am passionate about understanding distributed systems from the ground up and sharing that knowledge with other engineers.
+I'm Mihai, a Full-Stack Engineer with 4 years experience in Java/Kotlin and React.js, building both event-driven systems and legacy enterprise applications across AWS and Azure. I am passionate about understanding distributed systems from the ground up and sharing that knowledge with other engineers.
 
 Currently working on a large scale automation and data management platform for bioinformatics pipelines at DKFZ (German Cancer Research Center)
 
